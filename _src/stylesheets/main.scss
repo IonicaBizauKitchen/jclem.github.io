@@ -1,0 +1,84 @@
+@import 'normalize';
+
+$mobile: 640px;
+
+body {
+  font-weight: 300;
+  background: 'Helvetica Neue', 'Helvetica', sans-serif;
+  color: #333;
+  font-size: 28px;
+  max-width: 1300px;
+  padding: 60px;
+
+  @media (max-width: $mobile) {
+    padding: 20px;
+    font-size: 12px;
+  }
+
+  &:after {
+    background-image: url('/images/dragon.jpg');
+    background-repeat: no-repeat;
+    content: '';
+    opacity: 0.1;
+    z-index: -1;
+
+    display: block;
+    height: 1954px;
+    position: fixed;
+    right: 0;
+    top: -200px;
+    width: 1500px;
+
+    @media (max-width: $mobile) {
+      background-size: 375px 488.5px;
+
+      height: 488.5px;
+      left: 50px;
+      top: 0;
+      width: 375px;
+    }
+  }
+}
+
+h1 {
+  font-size: 5.14em;
+  letter-spacing: -8px;
+
+  @media (max-width: $mobile) {
+    letter-spacing: -4px;
+  }
+
+  position: relative;
+  float: left;
+}
+
+h2 {
+  font-size: 2.57em;
+}
+
+p {
+  line-height: 1.4285;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+#header {
+  &:after {
+    visibility: hidden;
+    display: block;
+    content: ' ';
+    font-size: 0;
+    height: 0;
+    clear: both;
+  }
+}
+
+#footer {
+  color: #999;
+  font-size: 0.6em;
+  font-style: italic;
+  padding-top: 5em;
+}
