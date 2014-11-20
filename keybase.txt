@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/clem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dingus.io
+  * I am clem (https://keybase.io/clem) on keybase.
+  * I have a public key with fingerprint 65EC D181 C2E0 C741 4A3B  6A1F 4986 B117 58A7 1809
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "65ecd181c2e0c7414a3b6a1f4986b11758a71809",
+            "host": "keybase.io",
+            "key_id": "4986b11758a71809",
+            "uid": "5be835839e7f344068d31668a729ac00",
+            "username": "clem"
+        },
+        "service": {
+            "hostname": "dingus.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1416507126,
+    "expire_in": 157680000,
+    "prev": "09391e8a351a9b41dd9c7824b706d020484f70747e366e39fedccc3e18cf9d55",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMHeAnicbZFbSBRRGMdXU7cWLA3t9pB0HoLCbM7OfagsCqSEpXQTjGCbOXN2Hdyd
+2XZmN80sJS0plXwoCypowdwKbAOjG4VmN/UhyEi7UKJJoEEPhWXi2ozZW+flcP7f
+7///vsP3JH2BzZHUW5Hj/x7L4pP6u8bDNreaN1kFJE2uBEIVKMdzl1dRfTgUDCmq
+AQTA0BjJkIPIiQnEUpASSYkRoZfiOUaCkKU5kYUcwYNcUKbplsOMkUQd5ymaqZkP
+jyKb6n/48FyBljBH0hzJY9ZLUhTBcDIJGcbEnLyICMICdRxSxQA2aeTHAVCdC0wl
+oiBszWu1na/K5uhh/W/nYEgzNKT5TbnMMIKC5TIqgxZ2CEue+QCPpKiWyzREcEhX
+NBUI0CSRoViJkIIMTbDQyeQCXBFUQtijWATNMhxhHqsNjpiRBE/yEHMiSUORlygo
+yzxiOSclsQQjE06C4igvS7AUi0mGwSTvxTJCiMSQQ15epmlgfemgqgGBNscUfWak
+rvhU0QiHMKh+3LU/xZbksKWlJlsrszkWZfxb5NsH9kR+gNmyJ7BpUGh4dq6vMHa4
+Krr4YXwsv1Vukn4LQsmw60UUexLumQj69ePa5TedX1trt/vWyEa07sKHDdNTy0fG
+DIpxz9BU58LbZw9MOp7ua6v5fLN7VmpeSdlfzjS3xe46fh5pWdp9o39HUc87vaGy
+V5v62Ni4rPt43af3aueZ66720Rp2aNwPWoaW7OSSY88LS5SRdFLfXfzFuXd6IMuD
+7tuPldpvZU+sqr+y8YRxNKP90mZ0voCM9jDDLVs7Xuek1q6IS+51u1yz2VfviB0n
+R0/FB9dnptlexQeKStXEcH3T6Olad8G3eMPFe9sirsyakUcpfRNri1dT5Yk/9L0T
+3w==
+=ZNWX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/clem
+
+==================================================================
+
